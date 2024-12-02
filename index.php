@@ -5,7 +5,7 @@
     <div class="container ">
         <div class="row justify-center-end">
             <div class="col-lg-8 mb-5 ">
-                <h1 class="display-1 text-dark">We Bring Your Home Brighting</h1>
+                <h1 class="display-1 text-dark">We Bring Your Home Bright</h1>
 
                 <div class="pt-2">
                     <!-- <a href="" class="btn btn-success rounded-pill py-md-3 px-md-5 mx-2">Get A Quote</a> -->
